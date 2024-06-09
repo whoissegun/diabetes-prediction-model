@@ -2,6 +2,8 @@
 
 This diabetes prediction app utilizes a machine learning model to predict the likelihood of diabetes based on several medical indicators. Built with PyTorch and Streamlit, the app offers an interactive user interface for entering medical data and receiving instant predictions.
 
+The deployed model can be accessed at: https://divine-diabetes-prediction-model.streamlit.app/
+
 ## Features
 
 - Predict diabetes likelihood based on medical inputs like glucose levels, blood pressure, and more.
